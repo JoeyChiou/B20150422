@@ -5,6 +5,7 @@
 		new A().minFunc(x, y);
 		new B().maxFunc(x, y);
 		new C().avgFunc(x, y);
+<<<<<<< HEAD
 		System.out.println("test joeyc09162");
 	}
 }
@@ -15,5 +16,8 @@ class A{
 			System.out.println("min:"+x);
 		else
 			System.out.println("min:"+y);
+=======
+	System.out.println("am021708");
+>>>>>>> 970ef01ea4000a3b521e9ecdaa8e9f06e922a227
 	}
 }
