@@ -5,6 +5,8 @@
 		new A().minFunc(x, y);
 		new B().maxFunc(x, y);
 		new C().avgFunc(x, y);
+
+		SYstem.out.println("test");
 	}
 }
 
